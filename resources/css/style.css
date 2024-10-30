@@ -36,7 +36,10 @@ p {
 }
 
 footer {
-    font-size: 16px;
     text-align: right;
     margin-right: 12px;
+}
+
+.footer {
+    font-size: 15px;
 }
