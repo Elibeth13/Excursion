@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(248, 251, 254);
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px
+}
+
+.download-link:hover {
+    color: rgb(108, 220, 183);
+}
+
+h2 {
+    color: rgb(248, 251, 254);
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    font-size: 16px;
+    text-align: right;
+    margin-right: 12px;
+}
